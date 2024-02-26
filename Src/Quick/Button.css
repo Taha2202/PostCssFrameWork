@@ -1,0 +1,11 @@
+.btn {
+    padding: 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 32px;
+
+    &--brand-1 {
+        background: #a6a6d1;
+        color: white;
+    }
+}
